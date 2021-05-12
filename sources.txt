@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/#:~:text=FLEX%20(fast%20lexical%20analyzer%20generator)%20is%20a%20tool%2Fcomputer,or%20GNU%20Bison%20parser%20generator.
+https://www.geeksforgeeks.org/lex-program-to-remove-comments-from-c-program/?ref=rp
+https://stackoverflow.com/questions/2799612/how-to-skip-a-line-when-fscanning-a-text-file
+https://stackoverflow.com/questions/52469550/print-line-of-matched-word-in-flex
+https://perso.esiee.fr/~najmanl/compil/Flex/flex_2.html
+https://stackoverflow.com/questions/36308141/function-was-not-declared-in-this-scope-in-flex-and-bison
+https://www.cs.virginia.edu/~cr4bd/flex-manual/Patterns.html
+https://www.humblec.com/lex-program-find-words-beginning-ending/
